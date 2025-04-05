@@ -1,0 +1,50 @@
+1,What is Python?,Easy,1
+2,What are the key features of Python?,Easy,2
+3,"How do you print ""Hello, World!"" in Python?",Easy,3
+4,How do you take user input in Python?,Easy,4
+5,What is the difference between = and == in Python?,Easy,5
+6,What are Python's data types?,Easy,6
+7,What is the difference between a list and a tuple?,Easy,1
+8,What is a dictionary in Python?,Easy,2
+9,How do you comment a line in Python?,Easy,3
+10,What does the len() function do?,Easy,4
+11,How do you find the type of a variable in Python?,Easy,5
+12,What is the difference between append() and extend() in a list?,Easy,6
+13,How do you swap two variables in Python without using a third variable?,Easy,1
+14,What is slicing in Python?,Hard,2
+15,How do you reverse a string in Python?,Hard,3
+16,"What is the purpose of if __name__ == ""__main__"": in Python?",Hard,4
+17,How do you open and read a file in Python?,Hard,5
+18,What is the difference between break and continue?,Hard,6
+19,How do you check if a number is even or odd in Python?,Hard,1
+20,How do you concatenate two strings in Python?,Hard,2
+21,What is the difference between is and ==?,Hard,3
+22,What are Python’s built-in data structures?,Hard,4
+23,"What is a function in Python, and how do you define one?",Hard,5
+24,Explain the concept of recursion in Python.,Hard,6
+25,What is the difference between deepcopy() and copy()?,Hard,1
+26,How does exception handling work in Python?,Hard,2
+27,What are Python lambda functions?,Medium,3
+28,What is list comprehension?,Medium,4
+29,How do you remove duplicates from a list in Python?,Medium,5
+30,Explain the difference between sort() and sorted().,Medium,6
+31,How do you implement a stack using Python lists?,Medium,1
+32,How do you implement a queue in Python?,Medium,2
+33,What is a Python module? How do you import one?,Medium,3
+34,Explain the difference between a shallow copy and a deep copy.,Medium,4
+35,How does the zip() function work in Python?,Medium,5
+36,What is the difference between args and kwargs?,Medium,6
+37,What is the purpose of the enumerate() function?,Medium,1
+38,How do you merge two dictionaries in Python?,Medium,2
+39,How do you check if a string is a palindrome in Python?,Medium,3
+40,What is the difference between @staticmethod and @classmethod?,Easy,4
+41,How does Python’s memory management work?,Easy,5
+42,Explain the Global Interpreter Lock (GIL) in Python.,Easy,6
+43,What is metaprogramming in Python?,Easy,1
+44,How does Python handle multiple inheritance?,Easy,2
+45,"What are generators in Python, and how do they work?",Easy,3
+46,Explain the difference between multithreading and multiprocessing in Python.,Easy,4
+47,How do you implement a binary search algorithm in Python?,Easy,5
+48,How does the yield keyword work in Python?,Hard,6
+49,What are coroutines in Python?,Hard,1
+50,How do you create and use a Python decorator?,Hard,2
