@@ -9,7 +9,7 @@ This project is especially useful for schools and coaching institutions that fre
 
 
 💡 Key Features
-🏫 Custom School Branding: Each paper includes the school name (Devamatha CMI International School) and fields for student name, class (X), and section.
+🏫 Custom School Branding: Each paper includes the school name  and fields for student name, class (X), and section.
 🔢 Chapter-based Filtering: Select specific chapters from which to generate questions.
 🔄 Randomization: Every question paper generated is different, ensuring uniqueness.
 🎯 Difficulty Levels:
